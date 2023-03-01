@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.935fdb7c.css",
-    "main.js": "/static/js/main.5219f0f8.js",
+    "main.css": "/static/css/main.9bc486dc.css",
+    "main.js": "/static/js/main.6a6fbbd7.js",
     "static/media/fw19_0970-Ravichandra-Koli-Resume.pdf": "/static/media/fw19_0970-Ravichandra-Koli-Resume.4414eed46ec1ef90a7a2.pdf",
     "index.html": "/index.html",
-    "main.935fdb7c.css.map": "/static/css/main.935fdb7c.css.map",
-    "main.5219f0f8.js.map": "/static/js/main.5219f0f8.js.map"
+    "main.9bc486dc.css.map": "/static/css/main.9bc486dc.css.map",
+    "main.6a6fbbd7.js.map": "/static/js/main.6a6fbbd7.js.map"
   },
   "entrypoints": [
-    "static/css/main.935fdb7c.css",
-    "static/js/main.5219f0f8.js"
+    "static/css/main.9bc486dc.css",
+    "static/js/main.6a6fbbd7.js"
   ]
 }
